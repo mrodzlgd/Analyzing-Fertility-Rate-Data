@@ -1,0 +1,202 @@
+,CountryName,CountryCode3,Year,FR,Lat,Lon,Region,SubRegion
+0,"Korea, Rep.",KOR,2017,1.052, 37, 127.5,Asia,Eastern Asia
+1,Puerto Rico,PRI,2017,1.101, 18.25, -66.5,Americas,Latin America and the Caribbean
+2,"Hong Kong SAR, China",HKG,2017,1.125, 22.25, 114.1667,Asia,Eastern Asia
+3,Singapore,SGP,2017,1.16, 1.3667, 103.8,Asia,South-eastern Asia
+4,Moldova,MDA,2017,1.234, 47, 29,Europe,Eastern Europe
+5,"Macao SAR, China",MAC,2017,1.338, 22.1667, 113.55,Asia,Eastern Asia
+6,Cyprus,CYP,2017,1.338, 35, 33,Asia,Western Asia
+7,Spain,ESP,2017,1.34, 40, -4,Europe,Southern Europe
+8,Italy,ITA,2017,1.34, 42.8333, 12.8333,Europe,Southern Europe
+9,Portugal,PRT,2017,1.36, 39.5, -8,Europe,Southern Europe
+10,Malta,MLT,2017,1.37, 35.8333, 14.5833,Europe,Southern Europe
+11,Ukraine,UKR,2017,1.374, 49, 32,Europe,Eastern Europe
+12,Bosnia and Herzegovina,BIH,2017,1.375, 44, 18,Europe,Southern Europe
+13,Greece,GRC,2017,1.38, 39, 22,Europe,Southern Europe
+14,Poland,POL,2017,1.39, 52, 20,Europe,Eastern Europe
+15,Luxembourg,LUX,2017,1.41, 49.75, 6.1667,Europe,Western Europe
+16,Croatia,HRV,2017,1.42, 45.1667, 15.5,Europe,Southern Europe
+17,Japan,JPN,2017,1.43, 36, 138,Asia,Eastern Asia
+18,Mauritius,MUS,2017,1.44, -20.2833, 57.55,Africa,Sub-Saharan Africa
+19,St. Lucia,LCA,2017,1.4480000000000002, 13.8833, -61.1333,Americas,Latin America and the Caribbean
+20,Serbia,SRB,2017,1.46, 44, 21,Europe,Southern Europe
+21,Thailand,THA,2017,1.4669999999999999, 15, 100,Asia,South-eastern Asia
+22,Slovak Republic,SVK,2017,1.48, 48.6667, 19.5,Europe,Eastern Europe
+23,Canada,CAN,2017,1.4961, 60, -95,Americas,Northern America
+24,Curacao,CUW,2017,1.5,12.1696,-68.99,Americas,Latin America and the Caribbean
+25,Austria,AUT,2017,1.53, 47.3333, 13.3333,Europe,Western Europe
+26,Hungary,HUN,2017,1.53, 47, 20,Europe,Eastern Europe
+27,Switzerland,CHE,2017,1.54, 47, 8,Europe,Western Europe
+28,Bulgaria,BGR,2017,1.54, 43, 25,Europe,Eastern Europe
+29,Belarus,BLR,2017,1.541, 53, 28,Europe,Eastern Europe
+30,North Macedonia,MKD,2017,1.5419999999999998, 41.8333, 22,Europe,Southern Europe
+31,Finland,FIN,2017,1.57, 64, 26,Europe,Northern Europe
+32,Germany,DEU,2017,1.57, 51, 9,Europe,Western Europe
+33,Slovenia,SVN,2017,1.58, 46, 15,Europe,Southern Europe
+34,Estonia,EST,2017,1.6, 59, 26,Europe,Northern Europe
+35,Armenia,ARM,2017,1.604, 40, 45,Asia,Western Asia
+36,Bermuda,BMU,2017,1.61, 32.3333, -64.75,Americas,Northern America
+37,Liechtenstein,LIE,2017,1.61, 47.1667, 9.5333,Europe,Western Europe
+38,Czech Republic,CZE,2017,1.63, 49.75, 15.5,Europe,Eastern Europe
+39,China,CHN,2017,1.631, 35, 105,Asia,Eastern Asia
+40,"Iran, Islamic Rep.",IRN,2017,1.636, 32, 53,Asia,Southern Asia
+41,Romania,ROU,2017,1.64, 46, 25,Europe,Eastern Europe
+42,Montenegro,MNE,2017,1.6580000000000001, 42, 19,Europe,Southern Europe
+43,Netherlands,NLD,2017,1.66, 52.5, 5.75,Europe,Western Europe
+44,Belgium,BEL,2017,1.68, 50.8333, 4,Europe,Western Europe
+45,Lithuania,LTU,2017,1.69, 56, 24,Europe,Northern Europe
+46,Norway,NOR,2017,1.71, 62, 10,Europe,Northern Europe
+47,Albania,ALB,2017,1.71, 41, 20,Europe,Southern Europe
+48,Brazil,BRA,2017,1.7109999999999999, -10, -55,Americas,Latin America and the Caribbean
+49,Lebanon,LBN,2017,1.713, 33.8333, 35.8333,Asia,Western Asia
+50,Cuba,CUB,2017,1.722, 21.5, -80,Americas,Latin America and the Caribbean
+51,United Arab Emirates,ARE,2017,1.7309999999999999, 24, 54,Asia,Western Asia
+52,Trinidad and Tobago,TTO,2017,1.739, 11, -61,Americas,Latin America and the Caribbean
+53,Iceland,ISL,2017,1.74, 65, -18,Europe,Northern Europe
+54,Latvia,LVA,2017,1.74, 57, 25,Europe,Northern Europe
+55,"Bahamas, The",BHS,2017,1.758, 24.25, -76,Americas,Latin America and the Caribbean
+56,Russian Federation,RUS,2017,1.7619999999999998, 60, 100,Europe,Eastern Europe
+57,Australia,AUS,2017,1.765, -27, 133,Oceania,Australia and New Zealand
+58,United States,USA,2017,1.7655, 38, -97,Americas,Northern America
+59,Chile,CHL,2017,1.766, -30, -71,Americas,Latin America and the Caribbean
+60,Costa Rica,CRI,2017,1.768, 10, -84,Americas,Latin America and the Caribbean
+61,Denmark,DNK,2017,1.79, 56, 10,Europe,Northern Europe
+62,United Kingdom,GBR,2017,1.79, 54, -2,Europe,Northern Europe
+63,Aruba,ABW,2017,1.798, 12.5, -69.9667,Americas,Latin America and the Caribbean
+64,Barbados,BRB,2017,1.7990000000000002, 13.1667, -59.5333,Americas,Latin America and the Caribbean
+65,St. Martin (French part),MAF,2017,1.81,18.0858547,-63.0618597,Americas,Latin America and the Caribbean
+66,New Zealand,NZL,2017,1.81, -41, 174,Oceania,Australia and New Zealand
+67,Ireland,IRL,2017,1.81, 53, -8,Europe,Northern Europe
+68,Colombia,COL,2017,1.834, 4, -72,Americas,Latin America and the Caribbean
+69,Sweden,SWE,2017,1.85, 62, 15,Europe,Northern Europe
+70,Brunei Darussalam,BRN,2017,1.861, 4.5, 114.6667,Asia,South-eastern Asia
+71,Qatar,QAT,2017,1.886, 25.5, 51.25,Asia,Western Asia
+72,"Korea, Dem. People’s Rep.",PRK,2017,1.899, 40, 127,Asia,Eastern Asia
+73,Azerbaijan,AZE,2017,1.9, 40.5, 47.5,Asia,Western Asia
+74,St. Vincent and the Grenadines,VCT,2017,1.911, 13.25, -61.2,Americas,Latin America and the Caribbean
+75,France,FRA,2017,1.92, 46, 2,Europe,Western Europe
+76,Vietnam,VNM,2017,1.95, 16, 106,Asia,South-eastern Asia
+77,Kuwait,KWT,2017,1.96, 29.3375, 47.6581,Asia,Western Asia
+78,New Caledonia,NCL,2017,1.97, -21.5, 165.5,Oceania,Melanesia
+79,Uruguay,URY,2017,1.984, -33, -56,Americas,Latin America and the Caribbean
+80,Georgia,GEO,2017,1.986, 42, 43.5,Asia,Western Asia
+81,Jamaica,JAM,2017,1.993, 18.25, -77.5,Americas,Latin America and the Caribbean
+82,French Polynesia,PYF,2017,1.9969999999999999, -15, -140,Oceania,Polynesia
+83,Bahrain,BHR,2017,2.009, 26, 50.55,Asia,Western Asia
+84,Malaysia,MYS,2017,2.019, 2.5, 112.5,Asia,South-eastern Asia
+85,Kosovo,XKX,2017,2.02,42.5833,21.0001,Europe,Southern Europe
+86,Bhutan,BTN,2017,2.02, 27.5, 90.5,Asia,Southern Asia
+87,Sri Lanka,LKA,2017,2.032, 7, 81,Asia,Southern Asia
+88,Turkey,TUR,2017,2.0340000000000003, 39, 35,Asia,Western Asia
+89,Antigua and Barbuda,ATG,2017,2.04, 17.05, -61.8,Americas,Latin America and the Caribbean
+90,Maldives,MDV,2017,2.052, 3.25, 73,Asia,Southern Asia
+91,El Salvador,SLV,2017,2.0580000000000003, 13.8333, -88.9167,Americas,Latin America and the Caribbean
+92,Bangladesh,BGD,2017,2.076, 24, 90,Asia,Southern Asia
+93,Virgin Islands (U.S.),VIR,2017,2.08, 18.3333, -64.8333,Americas,Latin America and the Caribbean
+94,Grenada,GRD,2017,2.083, 12.1167, -61.6667,Americas,Latin America and the Caribbean
+95,Nepal,NPL,2017,2.083, 28, 84,Asia,Southern Asia
+96,Greenland,GRL,2017,2.09, 72, -40,Americas,Northern America
+97,Mexico,MEX,2017,2.153, 23, -102,Americas,Latin America and the Caribbean
+98,Nicaragua,NIC,2017,2.171, 13, -85,Americas,Latin America and the Caribbean
+99,Tunisia,TUN,2017,2.175, 34, 9,Africa,Northern Africa
+100,Myanmar,MMR,2017,2.187, 22, 98,Asia,South-eastern Asia
+101,Libya,LBY,2017,2.235, 25, 17,Africa,Northern Africa
+102,Argentina,ARG,2017,2.2769999999999997, -34, -64,Americas,Latin America and the Caribbean
+103,"Venezuela, RB",VEN,2017,2.294, 8, -66,Americas,Latin America and the Caribbean
+104,Cabo Verde,CPV,2017,2.299, 16, -24,Africa,Sub-Saharan Africa
+105,India,IND,2017,2.3040000000000003, 20, 77,Asia,Southern Asia
+106,Guam,GUM,2017,2.3280000000000003, 13.4667, 144.7833,Oceania,Micronesia
+107,Indonesia,IDN,2017,2.336, -5, 120,Asia,South-eastern Asia
+108,Suriname,SUR,2017,2.3480000000000003, 4, -56,Americas,Latin America and the Caribbean
+109,Peru,PER,2017,2.37, -10, -76,Americas,Latin America and the Caribbean
+110,Dominican Republic,DOM,2017,2.392, 19, -70.6667,Americas,Latin America and the Caribbean
+111,Honduras,HND,2017,2.423, 15, -86.5,Americas,Latin America and the Caribbean
+112,South Africa,ZAF,2017,2.43, -29, 24,Africa,Sub-Saharan Africa
+113,Paraguay,PRY,2017,2.4530000000000003, -23, -58,Americas,Latin America and the Caribbean
+114,Morocco,MAR,2017,2.454, 32, -5,Africa,Northern Africa
+115,Uzbekistan,UZB,2017,2.455, 41, 64,Asia,Central Asia
+116,Ecuador,ECU,2017,2.458, -2, -77.5,Americas,Latin America and the Caribbean
+117,Belize,BLZ,2017,2.475, 17.25, -88.75,Americas,Latin America and the Caribbean
+118,Guyana,GUY,2017,2.485, 5, -59,Americas,Latin America and the Caribbean
+119,Panama,PAN,2017,2.487, 9, -80,Americas,Latin America and the Caribbean
+120,Saudi Arabia,SAU,2017,2.491, 25, 45,Asia,Western Asia
+121,Fiji,FJI,2017,2.4930000000000003, -18, 175,Oceania,Melanesia
+122,Faroe Islands,FRO,2017,2.5, 62, -7,Europe,Northern Europe
+123,Cambodia,KHM,2017,2.53, 13, 105,Asia,South-eastern Asia
+124,Oman,OMN,2017,2.592, 21, 57,Asia,Western Asia
+125,Lao PDR,LAO,2017,2.6430000000000002, 18, 105,Asia,South-eastern Asia
+126,Botswana,BWA,2017,2.6830000000000003, -22, 24,Africa,Sub-Saharan Africa
+127,Algeria,DZA,2017,2.7089999999999996, 28, 3,Africa,Northern Africa
+128,Mongolia,MNG,2017,2.713, 46, 105,Asia,Eastern Asia
+129,Kazakhstan,KAZ,2017,2.73, 48, 68,Asia,Central Asia
+130,Djibouti,DJI,2017,2.785, 11.5, 43,Africa,Sub-Saharan Africa
+131,Turkmenistan,TKM,2017,2.8360000000000003, 40, 60,Asia,Central Asia
+132,Bolivia,BOL,2017,2.839, -17, -65,Americas,Latin America and the Caribbean
+133,Syrian Arab Republic,SYR,2017,2.865, 35, 38,Asia,Western Asia
+134,Haiti,HTI,2017,2.8680000000000003, 19, -72.4167,Americas,Latin America and the Caribbean
+135,Philippines,PHL,2017,2.8939999999999997, 13, 122,Asia,South-eastern Asia
+136,Guatemala,GTM,2017,2.92, 15.5, -90.25,Americas,Latin America and the Caribbean
+137,Kyrgyz Republic,KGZ,2017,3.0, 41, 75,Asia,Central Asia
+138,Eswatini,SWZ,2017,3.033, -26.5, 31.5,Africa,Sub-Saharan Africa
+139,Lesotho,LSO,2017,3.0439999999999996, -29.5, 28.5,Africa,Sub-Saharan Africa
+140,"Micronesia, Fed. Sts.",FSM,2017,3.0980000000000003, 6.9167, 158.25,Oceania,Micronesia
+141,Israel,ISR,2017,3.11, 31.5, 34.75,Asia,Western Asia
+142,"Egypt, Arab Rep.",EGY,2017,3.21, 27, 30,Africa,Northern Africa
+143,Vanuatu,VUT,2017,3.239, -16, 167,Oceania,Melanesia
+144,Jordan,JOR,2017,3.3089999999999997, 31, 36,Asia,Western Asia
+145,Tajikistan,TJK,2017,3.313, 39, 71,Asia,Central Asia
+146,Namibia,NAM,2017,3.3539999999999996, -22, 17,Africa,Sub-Saharan Africa
+147,Pakistan,PAK,2017,3.4139999999999997, 30, 70,Asia,Southern Asia
+148,Tonga,TON,2017,3.595, -20, -175,Oceania,Polynesia
+149,Kiribati,KIR,2017,3.609, 1.4167, 173,Oceania,Micronesia
+150,Papua New Guinea,PNG,2017,3.61, -6, 147,Oceania,Melanesia
+151,Seychelles,SYC,2017,3.63, -4.5833, 55.6667,Africa,Sub-Saharan Africa
+152,Zimbabwe,ZWE,2017,3.682, -20, 30,Africa,Sub-Saharan Africa
+153,Gabon,GAB,2017,3.72, -1, 11.75,Africa,Sub-Saharan Africa
+154,Kenya,KEN,2017,3.793, 1, 38,Africa,Sub-Saharan Africa
+155,Solomon Islands,SLB,2017,3.795, -8, 159,Oceania,Melanesia
+156,Rwanda,RWA,2017,3.8089999999999997, -2, 30,Africa,Sub-Saharan Africa
+157,"Yemen, Rep.",YEM,2017,3.889, 15, 48,Asia,Western Asia
+158,Ghana,GHA,2017,3.926, 8, -2,Africa,Sub-Saharan Africa
+159,Samoa,WSM,2017,3.926, -13.5833, -172.3333,Oceania,Polynesia
+160,West Bank and Gaza,PSE,2017,3.9419999999999997, 32, 35.25,Asia,Western Asia
+161,Eritrea,ERI,2017,4.061, 15, 39,Africa,Sub-Saharan Africa
+162,Ethiopia,ETH,2017,4.081, 8, 38,Africa,Sub-Saharan Africa
+163,Madagascar,MDG,2017,4.129, -20, 47,Africa,Sub-Saharan Africa
+164,Comoros,COM,2017,4.275, -12.1667, 44.25,Africa,Sub-Saharan Africa
+165,Iraq,IRQ,2017,4.309, 33, 44,Asia,Western Asia
+166,Sierra Leone,SLE,2017,4.359, 8.5, -11.5,Africa,Sub-Saharan Africa
+167,Togo,TGO,2017,4.3839999999999995, 8, 1.1667,Africa,Sub-Saharan Africa
+168,Sao Tome and Principe,STP,2017,4.394, 1, 7,Africa,Sub-Saharan Africa
+169,Sudan,SDN,2017,4.468999999999999, 15, 30,Africa,Northern Africa
+170,Afghanistan,AFG,2017,4.477, 33, 65,Asia,Southern Asia
+171,Malawi,MWI,2017,4.505, -13.5, 34,Africa,Sub-Saharan Africa
+172,Liberia,LBR,2017,4.513, 6.5, -9.5,Africa,Sub-Saharan Africa
+173,Guinea-Bissau,GNB,2017,4.556, 12, -15,Africa,Sub-Saharan Africa
+174,Equatorial Guinea,GNQ,2017,4.599, 2, 10,Africa,Sub-Saharan Africa
+175,"Congo, Rep.",COG,2017,4.599, -1, 15,Africa,Sub-Saharan Africa
+176,Mauritania,MRT,2017,4.612, 20, -12,Africa,Sub-Saharan Africa
+177,Cameroon,CMR,2017,4.638999999999999, 6, 12,Africa,Sub-Saharan Africa
+178,Senegal,SEN,2017,4.695, 14, -14,Africa,Sub-Saharan Africa
+179,Guinea,GIN,2017,4.777, 11, -10,Africa,Sub-Saharan Africa
+180,Central African Republic,CAF,2017,4.796, 7, 21,Africa,Sub-Saharan Africa
+181,Cote d'Ivoire,CIV,2017,4.846, 8, -5,Africa,Sub-Saharan Africa
+182,Benin,BEN,2017,4.906000000000001, 9.5, 2.25,Africa,Sub-Saharan Africa
+183,Zambia,ZMB,2017,4.925, -15, 30,Africa,Sub-Saharan Africa
+184,Tanzania,TZA,2017,4.953, -6, 35,Africa,Sub-Saharan Africa
+185,Mozambique,MOZ,2017,5.178999999999999, -18.25, 35,Africa,Sub-Saharan Africa
+186,Burkina Faso,BFA,2017,5.271, 13, -2,Africa,Sub-Saharan Africa
+187,"Gambia, The",GMB,2017,5.358, 13.4667, -16.5667,Africa,Sub-Saharan Africa
+188,Timor-Leste,TLS,2017,5.391, -8.55, 125.5167,Asia,South-eastern Asia
+189,Nigeria,NGA,2017,5.457000000000001, 10, 8,Africa,Sub-Saharan Africa
+190,Uganda,UGA,2017,5.5, 1, 32,Africa,Sub-Saharan Africa
+191,Burundi,BDI,2017,5.615, -3.5, 30,Africa,Sub-Saharan Africa
+192,Angola,AGO,2017,5.622999999999999, -12.5, 18.5,Africa,Sub-Saharan Africa
+193,Chad,TCD,2017,5.846, 15, 19,Africa,Sub-Saharan Africa
+194,Mali,MLI,2017,5.968, 17, -4,Africa,Sub-Saharan Africa
+195,"Congo, Dem. Rep.",COD,2017,6.018, 0, 25,Africa,Sub-Saharan Africa
+196,Somalia,SOM,2017,6.171, 10, 49,Africa,Sub-Saharan Africa
+197,Niger,NER,2017,7.184, 16, 8,Africa,Sub-Saharan Africa
+198,Dominica,DMA,2017,, 15.4167, -61.3333,Americas,Latin America and the Caribbean
+199,Isle of Man,IMN,2017,, 54.23, -4.55,Europe,Northern Europe
+200,St. Kitts and Nevis,KNA,2017,, 17.3333, -62.75,Americas,Latin America and the Caribbean
